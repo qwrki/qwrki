@@ -1,49 +1,64 @@
 {
-  "name": "The Bunny Mafia #211",
-  "symbol": "BNE",
-  "description": "222 Bunny Mafia Members on the Solana blockchain.",
-  "seller_fee_basis_points": 500,
-  "attributes": [
-    {
-      "trait_type": "Background",
-      "value": "Dim Gray"
-    },
-    {
-      "trait_type": "Body Color",
-      "value": "Clay"
-    },
-    {
-      "trait_type": "Outline",
-      "value": "Bunny"
-    },
-    {
-      "trait_type": "Nose",
-      "value": "Beige Nose"
-    },
-    {
-      "trait_type": "Suits",
-      "value": "Red Suit"
-    },
-    {
-      "trait_type": "Hat",
-      "value": "BlackHat"
-    },
-    {
-      "trait_type": "Eyewear",
-      "value": "Sunglasses"
-    },
-    {
-      "trait_type": "Mouth",
-      "value": "None"
-    }
-  ],
-
-    "category": "image",
-    "creators": [
+    "name": "The Bunny Mafia #211",
+    "symbol": "BNE",
+    "description": "222 Bunny Mafia Members on the Solana blockchain.",
+    "seller_fee_basis_points": 500,
+    "uri":""
+    "image": "https://raw.githubusercontent.com/qwrki/qwrki/main/211.png",
+    "edition": 211,
+    "attributes": [
       {
-        "address": "EsY3febHx4xaz1CGRA1ie6DeXtp9wCvgMKr8sivc8XjW",
-        "share": 100
+        "trait_type": "Background",
+        "value": "Dim Gray"
+      },
+      {
+        "trait_type": "Body Color",
+        "value": "Clay"
+      },
+      {
+        "trait_type": "Outline",
+        "value": "Bunny"
+      },
+      {
+        "trait_type": "Nose",
+        "value": "Beige Nose"
+      },
+      {
+        "trait_type": "Suits",
+        "value": "Red Suit Tucked"
+      },
+      {
+        "trait_type": "Hat",
+        "value": "BlackHat"
+      },
+      {
+        "trait_type": "Eyewear",
+        "value": "Sunglasses"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "None"
       }
-    ]
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/qwrki/qwrki/main/211.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+            "address": "7WHvsEJaURe3hPgBVts8hGwsEQbHkSsdH3QkaEq4JWFF",
+            "share": 0,
+            "verified":true
+          },
+        {
+          "address": "EsY3febHx4xaz1CGRA1ie6DeXtp9wCvgMKr8sivc8XjW",
+          "share": 100,
+          "verified":false
+        }
+      ]
+    }
   }
-}
