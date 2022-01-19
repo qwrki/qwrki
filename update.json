@@ -1,0 +1,84 @@
+
+
+{
+    "name": "Bunny #721",
+    "symbol": "BNE",
+    "description": "A collection of 1000 bunnies",
+    "seller_fee_basis_points": 500,
+    "image": "image.png",
+  
+    "attributes": [
+
+       {
+"trait_type": "Bddy Color",
+"value":"Clay"
+       },
+    
+       {
+"trait_type": "Outline",
+"value":"Bunny"
+       },
+    ,
+       {
+"trait_type": "Suit",
+"value":"Red Suit"
+       },
+    
+       {
+          "trait_type": "Background",
+          "value": "Dim Gray"
+       },
+       {
+"trait_type": "Suit",
+"value":"Red Suit"
+       },
+    ,
+       {
+"trait_type": "Hat",
+"value":"BlackHat"
+       },
+    ,
+    ,
+       {
+"trait_type": "Nose",
+"value":"Beige Nose"
+       },
+    
+       {
+"trait_type": "Eyewear",
+"value":"Sunglasses"
+       },
+       ,
+       {
+"trait_type": "Mouth",
+"value":"None"
+       },
+    
+      {
+          "trait_type": "Pose",
+          "value": "Blithe"
+       }
+    ],
+    "collection": {
+       "name": "Bunny Business",
+       "family": "Bunnies" 
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "image.png",
+          "type": "image/png"
+        }
+      
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "EsY3febHx4xaz1CGRA1ie6DeXtp9wCvgMKr8sivc8XjW",
+          "share": 100
+        }
+      ]
+  }
+
+
+
