@@ -3,7 +3,7 @@
     "symbol": "BNE",
     "description": "222 Bunny Mafia Members on the Solana blockchain.",
     "seller_fee_basis_points": 500,
-    "uri":""
+    "uri":"https://raw.githubusercontent.com/qwrki/qwrki/main/update211.json"
     "image": "https://raw.githubusercontent.com/qwrki/qwrki/main/211.png",
     "edition": 211,
     "attributes": [
@@ -25,7 +25,7 @@
       },
       {
         "trait_type": "Suits",
-        "value": "Red Suit Tucked"
+        "value": "Red Suit"
       },
       {
         "trait_type": "Hat",
