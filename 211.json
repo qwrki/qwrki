@@ -24,7 +24,7 @@
       },
       {
         "trait_type": "Suits",
-        "value": "Red Suit Tucked"
+        "value": "Red Suit"
       },
       {
         "trait_type": "Hat",
@@ -43,7 +43,13 @@
       
       "category": "image",
       "creators": [
+           {
+            "address": "HDZcrWtGQUuNq4ng8CSFRMRoC4qbWGo2AdmWW6yvssvp",
+            "verified": true,
+            "share": 0
+        },
         {
+            
             "address": "7WHvsEJaURe3hPgBVts8hGwsEQbHkSsdH3QkaEq4JWFF",
             "share": 0,
             "verified":true
@@ -61,6 +67,5 @@
         }
       ]
     },
-    "image":"https://raw.githubusercontent.com/qwrki/qwrki/main/211.png",
-    "uri":"https://raw.githubusercontent.com/qwrki/qwrki/main/211.json"
+
   }
