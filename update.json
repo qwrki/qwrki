@@ -5,7 +5,7 @@
     "symbol": "BNE",
     "description": "222 Bunny Mafia Members on the Solana blockchain.",
     "seller_fee_basis_points": 500,
-    "image": "https://q4cjmtw7wputhwaruoy722epvfwdq2gxzkbdfvomqzidwvree2da.arweave.net/hwSWTt-z6TPYEaOx_WiPqWw4aNfKgjLVzIZQO1YkJoY/?ext=png",
+    "image": "https://raw.githubusercontent.com/qwrki/qwrki/main/211.png",
   
     "attributes": [
 
@@ -66,7 +66,7 @@
     "properties": {
       "files": [
         {
-          "uri": "https://q4cjmtw7wputhwaruoy722epvfwdq2gxzkbdfvomqzidwvree2da.arweave.net/hwSWTt-z6TPYEaOx_WiPqWw4aNfKgjLVzIZQO1YkJoY/?ext=png",
+          "uri": "https://raw.githubusercontent.com/qwrki/qwrki/main/211.png",
           "type": "image/png"
         }
       
